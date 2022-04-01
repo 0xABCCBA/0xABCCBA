@@ -1,6 +1,8 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-//<!--
+
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/YituHealthcare/Arc)
+
+<!--
 **0xABCCBA/0xABCCBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-//-->
+-->
